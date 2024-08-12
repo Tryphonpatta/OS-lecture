@@ -15,8 +15,9 @@
         - outsider’s access
 
 ## A View of Operating System Services
+![image](https://github.com/user-attachments/assets/2c45deea-da65-4c4c-8349-f4c34fc57bb6)
 
-![image.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/b66c22d5-ee85-4fca-8cc2-1ef1c3bbbef1/6630c8d2-fdc2-49a4-8496-f044d5e833ae/image.png](https://file.notion.so/f/f/b66c22d5-ee85-4fca-8cc2-1ef1c3bbbef1/6630c8d2-fdc2-49a4-8496-f044d5e833ae/image.png?table=block&id=633f26ba-0491-40aa-8386-c60de3b559fb&spaceId=b66c22d5-ee85-4fca-8cc2-1ef1c3bbbef1&expirationTimestamp=1723593600000&signature=3-y5E3iFiYiEdjuQtzl1qkmOQUXdZkjiH5mpWkePA5s&downloadName=image.png))
+
 
 ## System Calls
 
@@ -133,7 +134,8 @@ system had limited structuring.
         management, and other operating-system functions; a large
         number of functions for one level
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b66c22d5-ee85-4fca-8cc2-1ef1c3bbbef1/c8b4a305-567b-4c22-a899-ef2cdcd91a1c/image.png)
+        ![image](https://github.com/user-attachments/assets/c5523bb0-7d54-440b-a07d-18fc6dfaaabd)
+
         
 
 ### Microkernels
